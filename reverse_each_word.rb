@@ -7,6 +7,6 @@ def reverse_each_word(string)
     #collect the reverse order of each key in the string array into the the new array
   end
   new_array.join(" ")
-  puts new_array
+  
   #after collecting the new array i am joining the new array to converrt it back to a string and then it returns the new string as well
 end
